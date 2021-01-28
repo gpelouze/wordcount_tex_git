@@ -1,5 +1,8 @@
 # Count and plot the evolution of word number in tex files in a git repo
 
+Example: `./wordcount_tex_git.py *.tex`.
+
+![Sample output](example.png)
 
 ## Usage
 
